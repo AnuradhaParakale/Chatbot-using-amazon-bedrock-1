@@ -2,7 +2,7 @@
 
 #### Prerequisites
 
-- Python 3.8 or higher
+- Python 3.11.7 or higher
 - Amazon bedrock
 
 
