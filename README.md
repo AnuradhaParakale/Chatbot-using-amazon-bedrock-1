@@ -2,7 +2,7 @@
 
 #### Prerequisites
 
-- Python 3.8 or higher
+- Python 3.11.7 or higher
 - Amazon bedrock
 
 
@@ -15,7 +15,7 @@ Project repo: https://github.com/rajeevvhanhuve/Chatbot-using-amazon-bedrock.git
 
 #### STEP 2: Create a conda environment after opening the repository
 ```bash
-conda create -n chatbot python=3.8 -y
+conda create -n chatbot python=3.11.7 -y
 ```
 
 ```bash
